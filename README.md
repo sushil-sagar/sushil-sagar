@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sushil-sagar
+- 👋 Hi, I’m @Sushil-Kumar
 - 👀 I’m interested in java
-- 🌱 I’m currently learning java programming
+- 🌱 I’m currently learning DSA 
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
