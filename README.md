@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Sushil-Kumar
-- 👀 I’m interested in java
-- 🌱 I’m currently learning DSA 
+- 👀 I’m interested in Dovelopement
+- 🌱 I’m currently learning Data Structure and Algorithm 
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on Developement.
+- 📫 How to reach me sushilkumardugul@gmail.com
 
 <!---
 sushil-sagar/sushil-sagar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
