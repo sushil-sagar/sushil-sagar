@@ -27,4 +27,6 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="CSS3" width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" />
 <img align="left" alt="JavaScript" width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
 <img align="left" alt="Postman" width="70px" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" />
+<img align="left" alt="TypeScript" width="70px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+
 
