@@ -2,7 +2,7 @@
 - 👀 I’m interested in Development
 - 🌱 I’m currently learning Data Structure and Algorithm 
 
-- 💼 I have experience with the **MERN (MongoDB, Express.js, React, Node.js)** stack, **Angular**, **Java**, **C**, **C++**, **MySQL**, **HTML**, **CSS**, **Postman** and **JavaScript**.
+- 💼 I have experience with the **MERN (MongoDB, Express.js, React, Node.js)** stack, **Angular**, **Java**, **C**, **C++**, **MySQL**, **HTML**, **CSS**, **Postman** and **JavaScript**. 
 - 💻 I have completed approximately 20 projects using various technologies.
 - 💞️ I’m looking to collaborate on Development projects.
 - 📫 How to reach me: sushilkumardugul@gmail.com
