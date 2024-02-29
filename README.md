@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sushil-Kumar
-- 👀 I’m interested in Development 
+- 👀 I’m interested in Development  
 - 🌱 I’m currently learning Data Structure and Algorithm 
 
 - 💼 I have experience with the **MERN (MongoDB, Express.js, React, Node.js)** stack, **Angular**, **Java**, **C**, **C++**, **MySQL**, **HTML**, **CSS**, **Postman** and **JavaScript**. 
